@@ -12,5 +12,5 @@ My work created a new remote sensing-derived baseline of glacial retreat in the 
 
 {:refdef: style="text-align: center;"}
 {: refdef}
-![image1](/assets/images/SBUglacier.png)
+![image1](/assets/images/SBUGlacier.png)
 
