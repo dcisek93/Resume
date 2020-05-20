@@ -2,7 +2,7 @@
 layout: post
 title: Talks
 description: Lorem ipsum dolor est
-image: assets/images/skeleton.png
+image: assets/images/glacier.png
 nav-menu: true
 ---
 
