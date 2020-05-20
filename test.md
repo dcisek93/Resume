@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invited Talks
-description: Lorem ipsum dolor est
+description: Mapping glacial recession in Peru's Cordillera Vilcanota
 image: assets/images/glacier.png
 nav-menu: true
 ---
