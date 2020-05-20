@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publications
+title: Papers & Posters
 description: 
 image: assets/images/GlacierBackground.jpg
 nav-menu: true
@@ -13,7 +13,8 @@ nav-menu: true
 
 		<h4>Unordered</h4>
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
+			<li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). Remote Sensing Data Integration for Mapping Glacial Extents (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA. 
+</li>
 			<li>Sagittis lorem eleifend.</li>
 			<li>Felis dolore viverra.</li>
 		</ul>
