@@ -9,7 +9,7 @@ nav-menu: true
 <!-- Lists -->
 <h3>Lists</h3>
 <div class="row">
-	<div class="6u 12u$(medium)">
+	<div class="6u 24u$(small)">
 
 		<h4>Unordered</h4>
 		<ul>
