@@ -2,7 +2,7 @@
 layout: post
 title: Papers & Posters
 description: 
-image: assets/images/GlacierBackground.jpg
+image: assets/images/photo-books.jpg
 nav-menu: true
 ---
 
