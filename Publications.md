@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publications & Posters
+title: Publications
 description: 
 image: assets/images/photo-books.jpg
 nav-menu: true
