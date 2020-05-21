@@ -6,10 +6,11 @@ image: assets/images/photo-books.jpg
 nav-menu: true
 ---
 <h4>Unordered</h4>
-<ul><li>Cisek, D., Blauvelt, D. (2018). <b>Understanding Volumetric Glacier Change With ArcticDEM</b>. American Geophysical Union, Fall Meeting 2018, Walter E Washington Convention Center, Washington, DC. <a href="https://ui.adsabs.harvard.edu/abs/2018AGUFMGC43J1678C/abstract">Abstract #GC43J-1678</a>.
- </li>
-	
+<ul><li>Cisek, D., Blauvelt, D. (2018). <b>Understanding Volumetric Glacier Change With ArcticDEM</b>. American Geophysical Union, Fall Meeting 2018, Walter E Washington Convention Center, Washington, DC. <a href="https://ui.adsabs.harvard.edu/abs/2018AGUFMGC43J1678C/abstract">Abstract #GC43J-1678</a>.</li>
+
 <br><li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). <b>Remote Sensing Data Integration for Mapping Glacial Extents</b> (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA.</li>
+	
+<br><li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). <b>Remote Sensing Data Integration for Mapping Glacial Extents</b> (Poster). 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-4, <a href="https://ieeexplore.ieee.org/document/8085048">doi: 10.1109/NYSDS.2017.8085048</a>. </li>
 
 <br> <li>D. Cisek, M. Mahajan, J. Dale, S. Pepper, Y. Lin and S. Yoo. (2017). <b>A transfer learning approach to parking lot classification in aerial imagery. </b> 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-5, <a href="https://ieeexplore.ieee.org/document/8085049">doi: 10.1109/NYSDS.2017.8085049</a>. </li>
 
