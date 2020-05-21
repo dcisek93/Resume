@@ -8,6 +8,8 @@ nav-menu: true
 <h4>Unordered</h4>
 <ul><li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). <b>Remote Sensing Data Integration for Mapping Glacial Extents</b> (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA.</li>
 
+<br> <li>D. Cisek, M. Mahajan, J. Dale, S. Pepper, Y. Lin and S. Yoo. (2017). <b>A transfer learning approach to parking lot classification in aerial imagery. </b> 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-5, <a href="https://ieeexplore.ieee.org/document/8085049">doi: 10.1109/NYSDS.2017.8085049</a>. </li>
+
 <br> <li>D. Lee, D. Cisek and S. Yoo. (2017). <b>Sensor network-based wind field estimation using deep learning </b> (Paper). 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-3, <a href="https://ieeexplore.ieee.org/document/8085047">doi: 10.1109/NYSDS.2017.8085047</a>. </li>
 
 
