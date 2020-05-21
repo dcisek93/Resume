@@ -3,7 +3,7 @@ layout: post
 title: Mapping Glacial Recession in Peru's Cordillera Vilcanota
 description: GIS, Remote Sensing, Glaciology
 image: assets/images/GlacierBackground.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 I conducted a study with Stony Brook University (SBU) and University of Michigan-Dearborn to investigate and characterize glacier retreat in Peru's Cordillera Vilcanota mountain range over a thirty year period. I created a reproducable method for obtaining, pre-processing, and exploiting remote sensing data, integrated data from monitering stations the team had established in the field, and created custom map products which summerized 30 year trends in glacial recession and which guided the structure of their upcoming field season. 
