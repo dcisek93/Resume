@@ -5,25 +5,12 @@ description:
 image: assets/images/photo-books.jpg
 nav-menu: true
 ---
-<ul><li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). Remote Sensing Data Integration for Mapping Glacial Extents (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA.</li> </ul>
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
+<h4>Unordered</h4>
+<ul><li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). <b>Remote Sensing Data Integration for Mapping Glacial Extents</b> (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA.</li>
 
-		<h4>Unordered</h4>
-		<ul>
-			<li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). Remote Sensing Data Integration for Mapping Glacial Extents (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA. 
-</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
+<li>Cisek, D., Dale, J., Pepper, S., Mahajan, M., & Yoo, S. (2016). <b>Parking lot delineation and object detection using a localized Convolutional Neural Network </b> (Paper). Proceedings of IEEE 2016 New York Scientific Data Summit (NYSDS), New York University, New York, NY. doi:10.1109/nysds.2016.7747821. </li></ul>
+
+
+
 
 		
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-	
-	</div>
-</div>
