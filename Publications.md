@@ -6,7 +6,7 @@ image: assets/images/photo-books.jpg
 nav-menu: true
 ---
 <h4>Unordered</h4>
-<ul><li>Cisek, D. Blauvelt, D. (2018). <b>Understanding Volumetric Glacier Change With ArcticDEM</b>. American Geophysical Union, Fall Meeting 2018, Walter E Washintgon Convention Center, Washington, DC.<a href="https://ui.adsabs.harvard.edu/abs/2018AGUFMGC43J1678C/abstract">abstract #GC43J-1678</a>.
+<ul><li>Cisek, D., Blauvelt, D. (2018). <b>Understanding Volumetric Glacier Change With ArcticDEM</b>. American Geophysical Union, Fall Meeting 2018, Walter E Washintgon Convention Center, Washington, DC.<a href="https://ui.adsabs.harvard.edu/abs/2018AGUFMGC43J1678C/abstract">abstract #GC43J-1678</a>.
  </li>
 	
 <br><li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). <b>Remote Sensing Data Integration for Mapping Glacial Extents</b> (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA.</li>
