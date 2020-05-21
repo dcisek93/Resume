@@ -5,7 +5,7 @@ description:
 image: assets/images/photo-books.jpg
 nav-menu: true
 ---
-
+Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). Remote Sensing Data Integration for Mapping Glacial Extents (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA. 
 <!-- Lists -->
 <h3>Lists</h3>
 <div class="row">
