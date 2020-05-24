@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Image Registration Applications 
+title: Image Registration for Medical Imaging  
 description: Mathematics, Computer Vision 
 image: assets/images/math2.png
 nav-menu: false
