@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Image Registration Applications 
-description: Mathematics, GIS, Computer Vision 
+description: Mathematics, Computer Vision 
 image: assets/images/math2.png
 nav-menu: false
 ---
