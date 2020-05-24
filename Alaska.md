@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Glacial Recession in Peru's Cordillera Vilcanota
 description: GIS, Remote Sensing, Glaciology
-image: assets/images/menden.jpg
+image: assets/images/math.png
 nav-menu: false
 ---
 
