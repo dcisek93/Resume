@@ -21,7 +21,7 @@ nav-menu: true
 
 <li>D. Cisek, M. Mahajan, J. Dale, S. Pepper, Y. Lin and S. Yoo. (2017). <b>A transfer learning approach to parking lot classification in aerial imagery. </b> 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-5, <a href="https://ieeexplore.ieee.org/document/8085049">doi: 10.1109/NYSDS.2017.8085049</a>. </li>
 
-<li>D. Cisek, M. Mahajan, J. Dale, S. Pepper, Y. Lin and S. Yoo. (2017). <b>Benchmarking Transfer Learning for aerial imagery classification </b> (Poster). Brookhaven National Laboratory (BNL) Graduate Researcher Internship Program (GRIP) Capstone. Upton, New York. </li>
+<br><li>D. Cisek, M. Mahajan, J. Dale, S. Pepper, Y. Lin and S. Yoo. (2017). <b>Benchmarking transfer learning for aerial imagery classification </b> (Poster). Brookhaven National Laboratory (BNL) Graduate Researcher Internship Program (GRIP) Capstone. Upton, New York. </li>
 
 <br> <li>D. Lee, D. Cisek and S. Yoo. (2017). <b>Sensor network-based wind field estimation using deep learning </b> (Paper). 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-3, <a href="https://ieeexplore.ieee.org/document/8085047">doi: 10.1109/NYSDS.2017.8085047</a>. </li>
 
