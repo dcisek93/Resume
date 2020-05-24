@@ -2,7 +2,7 @@
 layout: post
 title: Multi-sensor data integration for glaciology applications 
 description: GIS, Remote Sensing, Glaciology
-image: assets/images/menden.jpg
+image: assets/images/diagram.png
 nav-menu: false
 ---
 
