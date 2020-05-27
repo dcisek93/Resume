@@ -12,3 +12,7 @@ We include a version of this workflow below, used to integrate data from three p
 {:refdef: style="text-align: center;"}
 {: refdef}
 ![image1](/assets/images/workflow.png)
+<br>
+{:refdef: style="text-align: center;"}
+{: refdef}
+![image2](/assets/images/twin.png)
