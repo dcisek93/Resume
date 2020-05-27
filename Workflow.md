@@ -10,4 +10,4 @@ In recent years the glaciology community has embraced the use of Geographic Info
 
 {:refdef: style="text-align: center;"}
 {: refdef}
-![image1](/assets/images/glacier.png)
+![image1](/assets/images/workflow.png)
