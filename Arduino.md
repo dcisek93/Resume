@@ -6,8 +6,8 @@ image: assets/images/picarduino.jpg
 nav-menu: false
 ---
 
-I conducted a study with Stony Brook University (SBU) and University of Michigan-Dearborn to investigate and characterize glacier retreat in Peru's Cordillera Vilcanota mountain range over a thirty year period. I created a reproducable method for obtaining, pre-processing, and exploiting remote sensing data, integrated data from monitering stations the team had established in the field, and created custom map products which summerized 30 year trends in glacial recession and which guided the structure of their upcoming field season. 
-My work created a new remote sensing-derived baseline of glacial retreat in the Cordillera Vilcanota and supported survey effects carried out for the Global Observation Research Initiative in Alpine Environments (GLORIA). 
+This project merged aspects of hardware and software development, to collect, analyze, and predict local weather changes over a short time window (six hours). I used an Arduino microcontroller with an ESP8266 wifi shield as a sensor platform, which I built and configured to collect real-time data about temperature, moisture, humidity, pressure, and altitude. I programmed it to wirelessly stream data to an Internet of Things (IoT)-optimized database, which provided an easy solution to store and visualize my data holdings. <br> <br>
+Currently I'm in the process of optimizing how often it collects data, and how between individual collections we can switch to a low power mode to conserve power. From there I'll move forward with the analysis portion of the project, using several approaches to time series analysis and prediction, and plan to rely upon the Keras library to predict whether it will rain or not over the next six hours. 
 
 
 {:refdef: style="text-align: center;"}
