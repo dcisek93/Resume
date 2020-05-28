@@ -6,9 +6,7 @@ image: assets/images/math2.png
 nav-menu: false
 ---
 
-I conducted a study with Stony Brook University (SBU) and University of Michigan-Dearborn to investigate and characterize glacier retreat in Peru's Cordillera Vilcanota mountain range over a thirty year period. I created a reproducable method for obtaining, pre-processing, and exploiting remote sensing data, integrated data from monitering stations the team had established in the field, and created custom map products which summerized 30 year trends in glacial recession and which guided the structure of their upcoming field season. 
-My work created a new remote sensing-derived baseline of glacial retreat in the Cordillera Vilcanota and supported survey effects carried out for the Global Observation Research Initiative in Alpine Environments (GLORIA). 
-
+My senior capstone project focused on image registration - mathematical approaches to aligning, adjusting, and overlaying images. This topic has huge applicability in several fields including GIS and medical imaging, and gave me a fantastic background in understanding the mathematics that govern the transformations we take for granted in GIS and computer vision applications. This was a useful bottom-up introduction to solving imagery-centric problems, and has influenced the way in which I approach problems since. On a broader level, my background in mathematics taught me a structured way to deconstruct, analyze, and solve difficult problems. 
 
 {:refdef: style="text-align: center;"}
 {: refdef}
