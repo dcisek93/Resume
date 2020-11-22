@@ -7,9 +7,9 @@ nav-menu: true
 ---
 <h4>Glaciology & Remote Sensing</h4>
 <ul>
+	<li> Cisek, D. (2020). <b> Hyperlocal Weather Collection and Analysis: An Integrated Approach. </b> Under review, Towards completion of the University of Missouri’s Big Data Capstone (DATA SCI 8090). </li>
 
-
-<li> Kalukin, A.; Endo, S.; Crook, R.; Mahajan, M.; Fennimore, R.; Cialella, A.; Gregory, L.; Yoo, S.; Xu, W.; Cisek, D. (2020). <b> Image Collection Simulation Using High-Resolution Atmospheric Modeling. </b> Remote Sens. 2020, 12, 3214. </li> 
+<br><li> Kalukin, A.; Endo, S.; Crook, R.; Mahajan, M.; Fennimore, R.; Cialella, A.; Gregory, L.; Yoo, S.; Xu, W.; Cisek, D. (2020). <b> Image Collection Simulation Using High-Resolution Atmospheric Modeling. </b> Remote Sens. 2020, 12, 3214. </li> 
 
 <br><li>Cisek, D., Castro, M. (2019). <b> Geospatial Modeling of Patagonian Geohazards. </b> Environmental Systems Research Institute (ESRI) User Conference 2019, San Diego Convention Center, San Diego, CA. </li>
 
