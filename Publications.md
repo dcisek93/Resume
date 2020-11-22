@@ -13,6 +13,8 @@ nav-menu: true
 
 <br><li>Cisek, D., Castro, M. (2019). <b> Geospatial Modeling of Patagonian Geohazards. </b> Environmental Systems Research Institute (ESRI) User Conference 2019, San Diego Convention Center, San Diego, CA. </li>
 
+<br> <li> Cisek, D. Yager, K. (2019). <b> Cordillera Vilcanota: 30 Years of Glacial Recession. </b> ESRI Story Map, Available: “https://arcg.is/1C88e40”. Created May 28th, 2019. </li>
+
 <br><li>Cisek, D., Blauvelt, D. (2018). <b>Understanding Volumetric Glacier Change With ArcticDEM</b>. American Geophysical Union, Fall Meeting 2018, Walter E Washington Convention Center, Washington, DC. <a href="https://ui.adsabs.harvard.edu/abs/2018AGUFMGC43J1678C/abstract">Abstract #GC43J-1678</a>.</li>
 
 <br><li>Cisek, D., Mahajan, M., Brown, M., & Genaway, D. (2017). <b>Remote Sensing Data Integration for Mapping Glacial Extents</b> (Poster). Environmental Systems Research Institute (ESRI) User Conference 2017, San Diego Convention Center, San Diego, CA.</li>
