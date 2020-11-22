@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 description: 
-image: assets/images/photo-books.jpg
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 <h4>Glaciology & Remote Sensing</h4>
