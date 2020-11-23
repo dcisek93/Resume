@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hyperlocal Weather Collection & Analysis 
-description: Time Series Analysis, Hardware/Software Integration, Deep Learning 
+description: Time Series Analysis, Hardware/Software Integration, Internet of Things 
 image: assets/images/picarduino.jpg
 nav-menu: false
 ---
