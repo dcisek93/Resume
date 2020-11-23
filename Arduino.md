@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Local Weather Prediction with Arduino 
+title: Hyperlocal Weather Collection & Analysis 
 description: Time Series Analysis, Hardware/Software Integration, Deep Learning 
 image: assets/images/picarduino.jpg
 nav-menu: false
