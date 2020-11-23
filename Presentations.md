@@ -8,7 +8,9 @@ nav-menu: true
 <h4>Glaciology & Remote Sensing</h4>
 <ul>
 
- <li>Castro, M. Cisek, D. (2020). <b> Data for Water Diplomacy – Glacial Lake Outburst Floods (GLOF). </b> Invited Speaker - World-Wide Human Geography Data (WWHGD) Working Group meeting. March 28th, 2020. </li>
+<li>Cisek, D. (2020). <b> Vaquita Hacks. </b> Hackathon Mentor for geospatial science & data storytelling - Hosted by Conservation Project International (CPI), Earth League International (ELI), and Earth Hacks. December 12th -13th, 2020. </li>
+
+<br> <li>Castro, M. Cisek, D. (2020). <b> Data for Water Diplomacy – Glacial Lake Outburst Floods (GLOF). </b> Invited Speaker - World-Wide Human Geography Data (WWHGD) Working Group meeting. March 28th, 2020. </li>
 
 <br> <li>Cisek, D. (2020). <b> Data Science for Urban Sustainability. </b> Invited Speaker – National Science Foundation / Stony Brook University Data Science Across the Undergraduate Curriculum Conference 2020. Stony Brook University, New York. January 9th – 10th, 2020. </li>
 
