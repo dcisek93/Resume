@@ -13,3 +13,10 @@ Currently this project has met all my short-term goals and we'll be posting the 
 {:refdef: style="text-align: center;"}
 {: refdef}
 ![image1](/assets/images/Workflows.png)
+
+<br> 
+Here's a picture of the final platform, pictured here with the cover removed from its weather-proof housing.
+
+{:refdef: style="text-align: center;"}
+{: refdef}
+![image1](/assets/images/NoLid.jpg)
