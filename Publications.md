@@ -7,7 +7,9 @@ nav-menu: true
 ---
 <h4>Glaciology & Remote Sensing</h4>
 <ul>
-	<li> Cisek, D. (2020). <b> Hyperlocal Weather Collection and Analysis: An Integrated Approach. </b> Under review, Towards completion of the University of Missouri’s Big Data Capstone (DATA SCI 8090). </li>
+<li> Cisek, D., Jones, J. (2021). <b> The Most Hazardous Places to Live. </b> Environmental Systems Research Institute (ESRI) User Conference 2021, San Diego Convention Center, San Diego, CA. </li>	
+	
+<br><li> Cisek, D. (2020). <b> Hyperlocal Weather Collection and Analysis: An Integrated Approach. </b> Under review, Towards completion of the University of Missouri’s Big Data Capstone (DATA SCI 8090). </li>
 
 <br><li> Kalukin, A.; Endo, S.; Crook, R.; Mahajan, M.; Fennimore, R.; Cialella, A.; Gregory, L.; Yoo, S.; Xu, W.; Cisek, D. (2020). <b> Image Collection Simulation Using High-Resolution Atmospheric Modeling. </b> Remote Sens. 2020, 12, 3214. </li> 
 
