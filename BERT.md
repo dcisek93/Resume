@@ -10,4 +10,9 @@ The rise of social media has created a paradigm shift in the way that informatio
 <br> <br> 
 With that in mind, this study seeks to bring insight to one piece of this problem, assessing public sentiment expressed on Twitter towards COVID-19 vaccines. To achieve this goal, three main goals were identified:
 
-
+<ul>
+  <li>Train a BERT model to assess public emotion and sentiment on Twitter conscerning COVID-19 Vaccines in the United States</li>
+  <li>Construct an API to enable rapid ingest and interpretation of real-time tweets on this topic</li>
+  <li>Case Study: Investigate the emergence of the Omicron variant of COVID-19 in the United States, visualize its effects on Twitter-based public emotion, and provide resources to enable future research 
+</li>
+</ul>
