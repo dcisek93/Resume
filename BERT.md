@@ -1,8 +1,8 @@
 ---
 layout: post
-title: TEST  
-description: Mathematics, Computer Vision 
-image: assets/images/math2.png
+title: Using BERT to Assess Twitter-based Sentiment Towards Vaccines  
+description: Natural Language Processing, Sentiment Analysis, Transformer Models  
+image: assets/images/lego.jpg
 nav-menu: false
 ---
 
