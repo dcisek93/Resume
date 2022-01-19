@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multi-sensor data integration for glaciology applications 
+title: Multi-Sensor Data Integration for Glaciology Applications 
 description: GIS, Remote Sensing, Glaciology
 image: assets/images/diagram2.png
 nav-menu: false
