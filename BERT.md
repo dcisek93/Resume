@@ -2,7 +2,7 @@
 layout: post
 title: Using BERT to Assess Twitter-based Sentiment Towards Vaccines  
 description: Natural Language Processing, Sentiment Analysis, Transformer Models  
-image: assets/images/lego.jpg
+image: assets/images/hello-i-m-nik-zYdYz7JlevE-unsplash.jpg
 nav-menu: false
 ---
 
