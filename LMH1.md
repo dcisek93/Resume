@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Using BERT to Assess Public Vaccine Sentiment 
-description: Natural Language Processing, Sentiment Analysis, Transformer Models  
+title: Augmenting Trans-Saharan Trade via Airship
+description: GIS, Emerging Technology, International Development  
 image: assets/images/photo-1582109221935-8ae39be5d2be.jpg
 nav-menu: false
 ---
