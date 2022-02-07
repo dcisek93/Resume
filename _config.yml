@@ -3,7 +3,7 @@ title: Daniel Cisek
 #subtitle: by HTML5 UP
 email: dcisek15@gmail.com
 description: I'm a data scientist and cartographer, interested in <br> applying emerging technologies to solving hard problems.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/resume" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Based out of the Washington, DC Area #1234 Somewhere Road
