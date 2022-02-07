@@ -17,6 +17,7 @@ This project meshed my personal interest in IoT development and real-time data c
 <br> 
 <center>Here's a picture of the final platform, pictured here with the cover removed from its weather-proof housing. </center>
 
-{:refdef: style="text-align: center;"}
+{:refdef: style="text-align: center; width="400"; 
+     height="500";"}
 {: refdef}
 ![image1](/assets/images/NoLid.jpg)
