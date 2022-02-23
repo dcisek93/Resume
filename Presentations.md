@@ -7,8 +7,12 @@ nav-menu: true
 ---
 
 <ul>
+  
+<li>Cisek, D. (2022). <b> 2022 Georgetown University (GU) Data Science & Analytics (DSAN) Career Fair. </b> Event Organizer (Attendance & Personnel) - Hosted by Georgetown. Feb. 25th, 2022. </li>
+  
+<br><li>Boothby, C. Cisek, D. (2022). <b> "Preparing for a Career Fair". </b> Lecture, Organized for Georgetown University's Data Science & Analytics (DSAN) Program. Feb. 23th, 2022. </li>
 
-<li>Cisek, D. (2021). <b> EOP Data Challenge 2021. </b> Hackathon Organizer (Problem Curation & Planning) - Hosted by EOP. April 5th - 16th, 2020. </li>
+<br><li>Cisek, D. (2021). <b> EOP Data Challenge 2021. </b> Hackathon Organizer (Problem Curation & Planning) - Hosted by EOP. April 5th - 16th, 2020. </li>
 
 <br><li>Cisek, D. (2020). <b> Vaquita Hacks. </b> Hackathon Mentor (geospatial science & data storytelling) - Hosted by Conservation Project International (CPI), Earth League International (ELI), Earth Hacks, and Countering Wildlife Trafficking Institute (CWTI). December 12th - 13th, 2020. </li>
 
