@@ -8,7 +8,7 @@ nav-menu: true
 
 <ul>
   
-<li>Cisek, D. (2022). <b> 2022 Georgetown University (GU) Data Science & Analytics (DSAN) Career Fair. </b> Event Organizer (Attendance & Personnel) - Hosted by Georgetown. Feb. 25th, 2022. </li>
+<li>Cisek, D. (2022). <b> 2022 Georgetown University (GU) Data Science & Analytics (DSAN) Career Fair. </b> Event Organizer (Attendance & Personnel) - Hosted by Georgetown University. Feb. 25th, 2022. </li>
   
 <br><li>Boothby, C., Cisek, D. (2022). <b> "Preparing for a Career Fair". </b> Lecture, Organized for Georgetown University's Data Science & Analytics (DSAN) Program. Feb. 23th, 2022. </li>
 
