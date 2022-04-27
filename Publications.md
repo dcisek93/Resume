@@ -26,7 +26,9 @@ nav-menu: true
 <h4>Machine Learning & Computer Vision</h4>
 <ul>
 
-<li>D. Cisek, M. Mahajan, J. Dale, S. Pepper, Y. Lin and S. Yoo. (2017). <b>A transfer learning approach to parking lot classification in aerial imagery. </b> 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-5, <a href="https://ieeexplore.ieee.org/document/8085049">doi: 10.1109/NYSDS.2017.8085049</a>. </li>
+<li>McIntosh, J., Cisek, D., Garberg, C., Li, B. (2022, May 2-3). <b>Applying & Comparing Advanced Regression Techniques for House Price Prediction</b> [Poster Presentation]. Mini-Symposium on Data Analytics, Georgetown University. </li>
+	
+<br><li>D. Cisek, M. Mahajan, J. Dale, S. Pepper, Y. Lin and S. Yoo. (2017). <b>A transfer learning approach to parking lot classification in aerial imagery. </b> 2017 New York Scientific Data Summit (NYSDS), New York, NY, 2017, pp. 1-5, <a href="https://ieeexplore.ieee.org/document/8085049">doi: 10.1109/NYSDS.2017.8085049</a>. </li>
 
 <br><li>D. Cisek, M. Mahajan, J. Dale, S. Pepper, Y. Lin and S. Yoo. (2017). <b>Benchmarking transfer learning for aerial imagery classification </b> (Poster). Brookhaven National Laboratory (BNL) Graduate Researcher Internship Program (GRIP) Capstone. Upton, New York. </li>
 
