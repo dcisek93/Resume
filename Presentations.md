@@ -8,7 +8,7 @@ nav-menu: true
 
 <ul>
   
-<li><b> 2022 Georgetown University (GU) Student-to-Student Dialogue, GU Initiative for U.S.-China Dialogue on Global Issues. </b> April 11th - May 2nd, 2020. </li>
+<li><b> 2022 Georgetown University (GU) Student-to-Student Dialogue, GU Initiative for U.S.-China Dialogue on Global Issues. </b> April 11th - May 2nd, 2022. </li>
   
 <br><li><b> 2022 Georgetown University (GU) Data Science & Analytics (DSAN) Admitted Students Seminar. </b> Invited Panelist - Hosted by Georgetown University. Mar. 30th, 2022. </li>
   
