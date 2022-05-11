@@ -11,7 +11,7 @@ nav-menu: true
 
 <li><a href="https://analytics.georgetown.edu/news-story/annual-dsan-student-showcase/"><b> "Statistical Learning students tell data-driven stories at DSAN Student Showcase". </b></a> Article, Published for Georgetown University's Data Science & Analytics (DSAN) Program. May 11th, 2022. </li>
   
-<br><li><b> 2022 Georgetown University (GU) Student-to-Student Dialogue, GU Initiative for U.S.-China Dialogue on Global Issues. </b> April 11th - May 2nd, 2022. </li>
+<br><li><b> 2022 Georgetown University (GU) Student-to-Student Dialogue. </b> Student Diplomat - GU Initiative for U.S.-China Dialogue on Global Issues. April 11th - May 2nd, 2022. </li>
   
 <br><li><b> 2022 Georgetown University (GU) Data Science & Analytics (DSAN) Admitted Students Seminar. </b> Invited Panelist - Hosted by Georgetown University. Mar. 30th, 2022. </li>
   
@@ -19,7 +19,7 @@ nav-menu: true
   
 <br><li> <b> "Preparing for a Career Fair". </b> Lecture, Organized for Georgetown University's Data Science & Analytics (DSAN) Program. Feb. 23th, 2022. </li>
 
-<br><li> <b> Vaquita Hacks. </b> Hackathon Mentor (geospatial science & data storytelling) - Hosted by Conservation Project International (CPI), Earth League International (ELI), Earth Hacks, and Countering Wildlife Trafficking Institute (CWTI). December 12th - 13th, 2020. </li>
+<br><li><a href="https://www.tcproject.co.uk/vaquita-hacks-2020"><b> Vaquita Hacks. </b></a> Hackathon Mentor (geospatial science & data storytelling) - Hosted by Conservation Project International (CPI), Earth League International (ELI), Earth Hacks, and Countering Wildlife Trafficking Institute (CWTI). December 12th - 13th, 2020. </li>
 
 <br> <li><b> Data for Water Diplomacy – Glacial Lake Outburst Floods (GLOF). </b> Invited Speaker - World-Wide Human Geography Data (WWHGD) Working Group meeting. March 28th, 2020. </li>
 
