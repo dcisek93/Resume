@@ -10,7 +10,7 @@ This project presents an approach to capturing and analyzing local weather data 
 
 This project meshed my personal interest in IoT development and real-time data collection with the requirements of The University of Missouri's Data Science & Analytics (DSAN) Graduate Certificate program. This project served as my capstone for this program, but also grew in scope to satisfy my own curiosity. Currently this project has met all my short-term goals, having collected a data set of over 30,000 data points for each sensor, cleaning and storing this data for future use, and building a complete time series analytics pipeline. Over the course of this project several major hurdles were overcome, including optimizing how often the platform collects data and automating its scheduling, figuring out how to switch the platform to a low power mode to conserve battery life between collections, and making the jump from a hard-wired serial connection to a wireless connection for streaming data directly to a web-enabled database. Below, we include a quick overview of the general workflow followed both on the hardware side (left) and our analytic pipeline (right). 
 
-{:refdef: style="text-align: center;width: 400px; height: 500px ;"}
+{:refdef: style="text-align: center;width: 400px; height: 800px ;"}
 {: refdef}
 ![image1](/assets/images/Workflows.png)
 
