@@ -20,4 +20,4 @@ This project meshed my personal interest in IoT development and real-time data c
 
 {:refdef: style="text-align: center;"}
 {: refdef}
-![image1](/assets/images/NoLid.jpg){:style="display:block;"}
+![image1](/assets/images/NoLid.jpg){:style="display:block; width: 400px; height: 500px ;"}
