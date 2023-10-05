@@ -15,4 +15,8 @@ The rise of social media has created a paradigm shift in the way that informatio
 </li><br>
 </ul>
 
- 
+ {:refdef: style="text-align: center;"}
+{: refdef}
+![image1](/assets/images/BERT1.JPG)
+<br>
+
